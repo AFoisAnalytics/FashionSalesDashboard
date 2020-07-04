@@ -1,3 +1,1 @@
 # Fashion Sales Dashboard
-
-
