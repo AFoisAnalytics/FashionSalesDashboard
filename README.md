@@ -1,2 +1,1 @@
-# FashionSalesDashboard
 Fashion Sales Dashboard
